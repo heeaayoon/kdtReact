@@ -46,7 +46,7 @@ function App() {
             <Routes>
               <Route path="/" element = {<MyClock/>} />
               <Route path="/lotto" element = {<Lotto/>} />
-              <Route path="/food" element = {<FoodMain2/>} />
+              <Route path="/food" element = {<FoodMain/>} />
               <Route path="/box" element = {<BoxOffice/>} />
               <Route path="/traff" element = {<Traffic/>} />
               <Route path="/gal" element = {<Gallery/>} />
