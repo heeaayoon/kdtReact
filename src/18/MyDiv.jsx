@@ -1,4 +1,4 @@
-import MyDiv2 from "./Mydiv2";
+import MyDiv2 from "./MyDiv2";
 import { useAtom } from "jotai";
 import { cntAtom2 } from "./CntAtom";
 
