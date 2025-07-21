@@ -1,5 +1,5 @@
 import { useState } from "react";
-import FoodCard from "./foodCard"
+import FoodCard from "./FoodCard"
 import fooddata from "./fooddata.json"
 import TailButton from "../component/TailButton";
 
